@@ -3,6 +3,7 @@ body{
     color: white;
 }
 .picture{
+    background-image: url(/assets/img/bg-main.png);
     background-repeat: no-repeat;
 }
 
