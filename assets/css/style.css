@@ -3,7 +3,6 @@ body{
     color: white;
 }
 .picture{
-    background-image: url(/assets/img/bg-main.png);
     background-repeat: no-repeat;
 }
 
@@ -26,6 +25,7 @@ body{
     font-size: 150px;
     color: grey;
     font-family: 'Bebas Neue', cursive;
+    
 }
 .ap{
     font-size: 170px;
@@ -119,4 +119,20 @@ footer{
 .border-rad:hover {
     background-color: #ff7b00;
     border-color: #ff7b00;
+}
+h5{
+    font-size: 40px;
+    color: rgb(255, 115, 0);
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    text-shadow: 10px 10px 5px black;
+
+}
+.descripcion{
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-shadow: 10px 10px 5px black;
+
 }
